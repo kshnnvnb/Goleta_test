@@ -1,0 +1,4 @@
+[
+  {"record_id": "sample-01", "category": "sensor", "value": 0},
+  {"record_id": "sample-02", "category": "manual", "value": 100}
+]

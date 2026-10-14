@@ -1,0 +1,8 @@
+[
+  {"record_id": "sensor-002", "category": "sensor", "value": 25},
+  {"record_id": "   ", "category": "unknown", "value": "80"},
+  {"category": "manual", "value": true},
+  {"record_id": "import-002", "category": "import", "value": 101},
+  null,
+  {}
+]
